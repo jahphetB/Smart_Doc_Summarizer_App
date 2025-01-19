@@ -1,3 +1,4 @@
+
 # Smart Document Summarizer
 
 A web application that summarizes uploaded PDF and text files using OpenAI's API.
@@ -23,3 +24,6 @@ A web application that summarizes uploaded PDF and text files using OpenAI's API
 - `GET /documents` → View all summaries.  
 - `GET /` → API health check.
  
+# Smart_Doc_Summarizer_App
+
+This project summarizes documents using AI.
